@@ -1,4 +1,4 @@
-# gmail-auto-labeler
+# Personal automations (gmail-auto-labeler, lesson-transcripts)
 
 A private, personal tool that automatically labels and tidies the owner's own Gmail inbox
 (for example, labeling payment emails and moving promotional emails to Trash).
